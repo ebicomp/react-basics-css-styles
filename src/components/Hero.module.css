@@ -1,0 +1,18 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: url("../../public/images/main.jpeg") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30rem;
+  padding-top: 10rem;
+  color: white;
+}
+.hero .btn-exolore-tours {
+  width: 15rem;
+  height: 4rem;
+  color: rgb(5, 192, 5);
+  font-size: 1.2rem;
+}
